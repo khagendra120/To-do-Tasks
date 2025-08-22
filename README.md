@@ -1,3 +1,1 @@
-﻿# To-do-Tasks
 
-<img width="1340" height="851" alt="image" src="https://github.com/user-attachments/assets/18b7eea8-22f9-4bbc-9b11-7590bea53649" />
